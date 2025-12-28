@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.mon.traqueur" version="1.0.0" xmlns="http://www.w3.org/ns/widgets">
+    <name>Mon Traqueur</name>
+    <description>Application de suivi d'activité</description>
+    <content src="index.js" />
+    <access origin="*" />
+    <preference name="Orientation" value="portrait" />
+    
+    <plugin name="cordova-plugin-local-notification" />
+    <plugin name="cordova-plugin-battery-status" />
+    <plugin name="cordova-plugin-geolocation" />
+</widget>
