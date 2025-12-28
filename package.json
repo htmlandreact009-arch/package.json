@@ -1,0 +1,11 @@
+{
+  "name": "com.mon.traqueur",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "tabris": "3.9.0",
+    "cordova-plugin-local-notification": "0.9.0-beta.2",
+    "cordova-plugin-battery-status": "2.0.3",
+    "cordova-plugin-geolocation": "4.1.0"
+  }
+}
